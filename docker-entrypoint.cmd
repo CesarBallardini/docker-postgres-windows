@@ -130,3 +130,4 @@ if NOT exist "%PGDATA%\PG_VERSION" (
 
 :: start the database
 call %*
+
