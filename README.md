@@ -9,7 +9,7 @@
     [https://github.com/CesarBallardini/docker-postgres-windows/issues](https://github.com/CesarBallardini/docker-postgres-windows/issues)
 
 -   **Maintained by**:
-    [Stellirin](https://github.com/CesarBallardini)
+    [César Ballardini](https://github.com/CesarBallardini)
 
 -   **Supported architectures**: ([more info](https://github.com/docker-library/official-images#architectures-other-than-amd64))
     [`windows-amd64`](https://hub.docker.com/u/winamd64/)
